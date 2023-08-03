@@ -1,1 +1,1 @@
-print("sakam+")+
+print("sakam+")
